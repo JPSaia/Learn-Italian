@@ -1,0 +1,30 @@
+body{
+    background-color: gold;
+    font-family: Arial, sans-serif;
+}
+#verbsimg{
+    width: 100%;
+    zoom: 200%;
+}
+
+.flashcard-container {
+  width: 300px;
+  height: 200px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin: 20px auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: whitesmoke;
+  background-color: royalblue;
+}
+
+.flashcard {
+  padding: 20px;
+  text-align: center;
+}
+
+button {
+  margin: 10px;
+}
